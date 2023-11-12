@@ -8,4 +8,4 @@ Alumnos:
 * DE MEZZO, Facundo / em.cn.demezzo.facundo@gmail.com
 * ROYO, Lourdes / lourdesroyo21@gmail.com
 * VIDELA, Ana Clara / anitavidela200112@gmail.com
-Incluye documento sobre la charla brindada por la empresa Distrocuyo "Digitalización e Inteligencia Artificial en la industria energética a cargo de Distrocuyo"
+Incluye documento sobre la charla brindada por la empresa Distrocuyo "Digitalización e Inteligencia Artificial en la industria energética a cargo de Distrocuyo" y un documento sobre las charlas abiertas brindadas en la biblioteca central de la UNCuyo. 
